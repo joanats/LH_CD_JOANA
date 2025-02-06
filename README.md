@@ -4,7 +4,7 @@ Este é o repositório do projeto **Indicium**, desenvolvido para fins de seleç
 
 ## Como instalar
 
-Para instalar e executar o projeto, siga os passo abaixo:
+Para instalar e executar o projeto, siga o passo abaixo:
 
 ### 1. Clone o repositório
 
